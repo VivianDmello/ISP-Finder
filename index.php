@@ -56,8 +56,6 @@ header("Location:http://localhost/result.html");
 //ISP Finder v1.1 bY Vivian Dmello
 	}
 //###Thanks to ganon and whoismyisp.org ###
-<<<<<<< HEAD
+
 ?>
-=======
-?>
->>>>>>> origin/master
+
