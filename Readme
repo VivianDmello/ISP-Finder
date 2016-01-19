@@ -1,0 +1,13 @@
+#1) Copy Index.php to your Htdocs folder if you are using XAMPP OR WAMPP or if you are using Apache then upload it to /var/www/ 
+#2) Create a folder named upload in the same directory where index.php is present
+#3) Access using a browser 
+#4) Upload the .txt file in the format as below#
+
+123.63.215.217
+123.63.215.217
+123.63.215.217
+106.220.172.240
+106.220.172.240
+106.220.81.116
+106.220.81.116
+23.27.250.74
